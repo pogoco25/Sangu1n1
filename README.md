@@ -8,7 +8,7 @@
 - node.js
 - discord.js
 - npm
-that's all I think???
+
 
 ## Installation steps:
 - step 1: copy the code in whatever method you wish. be sure to replace the Bot token with your Bot user token and the admin id with your id!
