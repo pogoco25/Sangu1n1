@@ -1,7 +1,7 @@
 # Sangu1n1, the worlds shittiest bot!
 
 ## description
-### Sangu1n1 is a small music bot, designed for use in the Sanguini Squad Discord server. Nothing's stopping an enterprising individual from using it but there are far better options."
+### Sangu1n1 is a small music bot, designed for use in the Sanguini Squad Discord server. Nothing's stopping an enterprising individual from using it but there are far better options.
 
 
 ## Installation steps:
